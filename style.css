@@ -45,7 +45,7 @@ section div {
 }
 
 section h2 {
-letter-spacing: -0.47px; /* espaço entre as letras */
+letter-spacing: -0.47px; 
 }
 
 section p {
@@ -58,7 +58,7 @@ section ul {
   list-style: none;
 
   display: flex;
-  flex-wrap: wrap; /*adapta a visualização da quantidade de itens a minha lista (jogando para baixo quando não couber na lista)*/
+  flex-wrap: wrap; 
   gap: 16px;
 
   margin-top: 24px;
